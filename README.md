@@ -15,3 +15,4 @@ Piętnaście zmian wprowadzonych przez agenta. Format: prośba; liczba linijek d
 11. zliczaj kliknięcia przycisku i pokazuj ich liczbę w drugim napisie; diff: 5 linijek; rozumiem: 5 z 5
 12. ustaw przyciskowi tło LightSteelBlue; diff: 2 linijek; rozumiem: 2 z 2
 13. dodaj pod przyciskiem pole tekstowe z podpowiedzią „Wpisz coś”; diff: 1 linijek; rozumiem: 1 z 1
+14. ustaw jasny motyw aplikacji; diff: 2 linijek; rozumiem: 2 z 2
