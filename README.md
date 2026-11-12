@@ -12,3 +12,4 @@ Piętnaście zmian wprowadzonych przez agenta. Format: prośba; liczba linijek d
 8. dodaj pod napisem drugi, mniejszy napis; diff: 5 linijek; rozumiem: 5 z 5
 9. dodaj pod napisami przycisk „Kliknij mnie”; diff: 1 linijek; rozumiem: 1 z 1
 10. po kliknięciu przycisku zmień drugi napis na „Kliknięto!”; diff: 10 linijek; rozumiem: 10 z 10
+11. zliczaj kliknięcia przycisku i pokazuj ich liczbę w drugim napisie; diff: 5 linijek; rozumiem: 5 z 5

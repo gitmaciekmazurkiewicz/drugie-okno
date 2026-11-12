@@ -5,6 +5,8 @@ namespace okno;
 
 public partial class MainWindow : Window
 {
+    private int _licznik;
+
     public MainWindow()
     {
         InitializeComponent();
@@ -12,6 +14,7 @@ public partial class MainWindow : Window
 
     private void Przycisk_Click(object? sender, RoutedEventArgs e)
     {
-        this.FindControl<TextBlock>("Podpis")!.Text = "Kliknięto!";
+        _licznik++;
+        this.FindControl<TextBlock>("Podpis")!.Text = $"Kliknięto {_licznik} razy";
     }
 }
