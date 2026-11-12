@@ -11,5 +11,6 @@
         <TextBlock Text="Warsztat" FontSize="40" Foreground="DarkSlateBlue" HorizontalAlignment="Center" />
         <TextBlock x:Name="Podpis" Text="Drugie okno zbudowane z agentem" HorizontalAlignment="Center" />
         <Button Content="Kliknij mnie" Background="LightSteelBlue" HorizontalAlignment="Center" Click="Przycisk_Click" />
+        <TextBox Watermark="Wpisz coś" Width="240" HorizontalAlignment="Center" />
     </StackPanel>
 </Window>
