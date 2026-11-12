@@ -9,3 +9,4 @@ Piętnaście zmian wprowadzonych przez agenta. Format: prośba; liczba linijek d
 5. ustaw kolor napisu na ciemnoniebieski; diff: 2 linijek; rozumiem: 2 z 2
 6. wyśrodkuj napis w pionie; diff: 2 linijek; rozumiem: 2 z 2
 7. ustaw jasnoszare tło okna; diff: 3 linijek; rozumiem: 3 z 3
+8. dodaj pod napisem drugi, mniejszy napis; diff: 5 linijek; rozumiem: 5 z 5

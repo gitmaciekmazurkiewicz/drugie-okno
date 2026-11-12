@@ -7,5 +7,8 @@
         Title="Drugie okno"
         Width="600" Height="400"
         Background="#F0F4F8">
-    <TextBlock Text="Warsztat" FontSize="40" Foreground="DarkSlateBlue" HorizontalAlignment="Center" VerticalAlignment="Center" />
+    <StackPanel VerticalAlignment="Center" Spacing="8">
+        <TextBlock Text="Warsztat" FontSize="40" Foreground="DarkSlateBlue" HorizontalAlignment="Center" />
+        <TextBlock Text="Drugie okno zbudowane z agentem" HorizontalAlignment="Center" />
+    </StackPanel>
 </Window>
