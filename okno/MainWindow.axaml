@@ -10,5 +10,6 @@
     <StackPanel VerticalAlignment="Center" Spacing="8">
         <TextBlock Text="Warsztat" FontSize="40" Foreground="DarkSlateBlue" HorizontalAlignment="Center" />
         <TextBlock Text="Drugie okno zbudowane z agentem" HorizontalAlignment="Center" />
+        <Button Content="Kliknij mnie" HorizontalAlignment="Center" />
     </StackPanel>
 </Window>
