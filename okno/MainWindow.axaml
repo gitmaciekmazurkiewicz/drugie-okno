@@ -9,7 +9,7 @@
         Background="#F0F4F8">
     <StackPanel VerticalAlignment="Center" Spacing="8">
         <TextBlock Text="Warsztat" FontSize="40" Foreground="DarkSlateBlue" HorizontalAlignment="Center" />
-        <TextBlock Text="Drugie okno zbudowane z agentem" HorizontalAlignment="Center" />
-        <Button Content="Kliknij mnie" HorizontalAlignment="Center" />
+        <TextBlock x:Name="Podpis" Text="Drugie okno zbudowane z agentem" HorizontalAlignment="Center" />
+        <Button Content="Kliknij mnie" HorizontalAlignment="Center" Click="Przycisk_Click" />
     </StackPanel>
 </Window>
